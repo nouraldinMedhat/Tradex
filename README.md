@@ -2,7 +2,7 @@
 <p float="left">
   <img src="https://github.com/nouraldinMedhat/Tradex/blob/main/images/report%20design.png" width="33%" />
   <img src="https://github.com/nouraldinMedhat/Tradex/blob/main/images/report%20design.png" width="33%" /> 
-  <img src="https://github.com/nouraldinMedhat/Tradex/blob/main/images/report%20design.png" width="33%" />
+  <img src="https://github.com/nouraldinMedhat/Tradex/blob/main/images/report%20design.png" width="20%" />
 </p>
 
 ![alt text](https://github.com/nouraldinMedhat/Tradex/blob/main/images/report%20design.png)
